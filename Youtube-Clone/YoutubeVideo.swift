@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+struct YoutubeVideo {
+    let thumbnail: String
+    let title: String
+    let channelName: String
+    let profilePic: String
+    let views: String
+    let posted: String
+}

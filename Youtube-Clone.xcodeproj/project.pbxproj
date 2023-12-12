@@ -11,6 +11,10 @@
 		E1E3E5B82B2761F4002C29E5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E3E5B72B2761F4002C29E5 /* ContentView.swift */; };
 		E1E3E5BA2B2761F6002C29E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1E3E5B92B2761F6002C29E5 /* Assets.xcassets */; };
 		E1E3E5BD2B2761F6002C29E5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1E3E5BC2B2761F6002C29E5 /* Preview Assets.xcassets */; };
+		E1E3E5C42B2762B4002C29E5 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E3E5C32B2762B4002C29E5 /* HomeView.swift */; };
+		E1E3E5C62B277313002C29E5 /* YoutubeVideo.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E3E5C52B277313002C29E5 /* YoutubeVideo.swift */; };
+		E1E3E5C82B2782E6002C29E5 /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E3E5C72B2782E6002C29E5 /* TabView.swift */; };
+		E1E3E5CA2B278FF0002C29E5 /* ChipView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1E3E5C92B278FF0002C29E5 /* ChipView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		E1E3E5B72B2761F4002C29E5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E1E3E5B92B2761F6002C29E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1E3E5BC2B2761F6002C29E5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E1E3E5C32B2762B4002C29E5 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		E1E3E5C52B277313002C29E5 /* YoutubeVideo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeVideo.swift; sourceTree = "<group>"; };
+		E1E3E5C72B2782E6002C29E5 /* TabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView.swift; sourceTree = "<group>"; };
+		E1E3E5C92B278FF0002C29E5 /* ChipView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChipView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +63,10 @@
 				E1E3E5B72B2761F4002C29E5 /* ContentView.swift */,
 				E1E3E5B92B2761F6002C29E5 /* Assets.xcassets */,
 				E1E3E5BB2B2761F6002C29E5 /* Preview Content */,
+				E1E3E5C32B2762B4002C29E5 /* HomeView.swift */,
+				E1E3E5C52B277313002C29E5 /* YoutubeVideo.swift */,
+				E1E3E5C72B2782E6002C29E5 /* TabView.swift */,
+				E1E3E5C92B278FF0002C29E5 /* ChipView.swift */,
 			);
 			path = "Youtube-Clone";
 			sourceTree = "<group>";
@@ -137,6 +149,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1E3E5C82B2782E6002C29E5 /* TabView.swift in Sources */,
+				E1E3E5C42B2762B4002C29E5 /* HomeView.swift in Sources */,
+				E1E3E5CA2B278FF0002C29E5 /* ChipView.swift in Sources */,
+				E1E3E5C62B277313002C29E5 /* YoutubeVideo.swift in Sources */,
 				E1E3E5B82B2761F4002C29E5 /* ContentView.swift in Sources */,
 				E1E3E5B62B2761F4002C29E5 /* Youtube_CloneApp.swift in Sources */,
 			);

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "third_video_thumbnail.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
